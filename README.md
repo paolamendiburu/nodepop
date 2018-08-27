@@ -1,6 +1,8 @@
 # Practica DevOps
 Se muestra en http://18.222.231.168/ una plantilla startbootstrap.com
+
 En http://ec2-18-222-231-168.us-east-2.compute.amazonaws.com/ se muestra la practica de Nodepop
+
 En http://ec2-18-222-231-168.us-east-2.compute.amazonaws.com/images/anuncios/bici.jpg se puede mostrar la cabecera con valor X-Owner paolamendiburu
 
 # NodePop
